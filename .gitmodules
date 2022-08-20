@@ -1,0 +1,6 @@
+[submodule "secureportal-ng"]
+	path = secureportal-ng
+	url = https://github.com/franklin-glance/secureportal-ng.git
+[submodule "secureportal-php"]
+	path = secureportal-php
+	url = https://github.com/franklin-glance/secureportal-php.git
